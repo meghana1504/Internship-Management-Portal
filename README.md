@@ -1,4 +1,5 @@
-# Internship-Mnagement-Portal
+# Internship-Management-Portal
+#### Interns-on-Top
 In a team of 4, we developed an Internship Management Portal using Python, MySQL, PHP , HTML and CSS where:</br>
 1) Admin of a company can upload various problem statements .</br>
 2) Students from any college can register and take up any task which they want .</br>
